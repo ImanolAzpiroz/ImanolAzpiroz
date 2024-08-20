@@ -14,14 +14,14 @@ About Me
 
 
 <h2 align="center">Segundo</h2>
-<a > Algoritmos y Estructuras de datos </a> <br>
+<a href="https://github.com/ImanolAzpiroz/Algoritmos-y-Estructuras-de-Datos"> Algoritmos y Estructuras de datos </a> <br>
 <a > Fundamentos de Organizacion de Datos</a> <br>
 <a href="https://github.com/ImanolAzpiroz/PhP-React-ApiRest" > Seminario de Lenguajes (PHP, React, Api Rect) </a> <br>
 
-<a > Orientado a Objetos 1 </a> <br>
+<a href="https://github.com/ImanolAzpiroz/Objetos-1" > Objetos 1 </a> <br>
 <a > Diseño de Bases de Datos </a> <br>
-<a > Ingenieria de Software </a> <br>
-<a> Introduccion a Sistemas Operativos </a> <br>
+<a href="https://github.com/ImanolAzpiroz/Ing-de-Software-1" > Ingenieria de Software </a> <br>
+<a href="https://github.com/ImanolAzpiroz/Intr-de-Sistemas-Operativos"> Introduccion a Sistemas Operativos </a> <br>
 
 <h2 align="center">Tercer Año</h2>
 
