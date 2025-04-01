@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-
-About Me
 
 <h2 align="center">Primer Año</h2>
 
