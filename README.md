@@ -13,7 +13,7 @@
 <a > Fundamentos de Organizacion de Datos</a> <br>
 
 
-<a href="https://github.com/ImanolAzpiroz/Objetos-1" > Objetos 1 </a> <br>
+<a href="https://github.com/ImanolAzpiroz/Orientacion-a-Objetos-I" > Orientacion a Objetos 1 </a> <br>
 <a > Diseño de Bases de Datos </a> <br>
 <a href="https://github.com/ImanolAzpiroz/Ing-de-Software-1" > Ingenieria de Software I</a> <br>
 <a href="https://github.com/ImanolAzpiroz/Intr-de-Sistemas-Operativos"> Introduccion a Sistemas Operativos </a> <br>
