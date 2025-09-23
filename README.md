@@ -40,7 +40,7 @@ Apasionado por el **Desarrollo de software**, la **Música** y el **Sonido**.
 ---
 
 ## 🚀 Proyectos Personales
-[![Controlador MIDI](https://img.shields.io/badge/Controlador%20MIDI%20con%20Raspberry%20Pi%20Pico-pendiente-red?style=for-the-badge)](https://github.com/ImanolAzpiroz/Controlador-MIDI---Raspberry-Pi-Pico/tree/main)
+[![Controlador MIDI](https://img.shields.io/badge/Controlador%20MIDI%20con%20Raspberry%20Pi%20Pico-Repo-red?style=for-the-badge)](https://github.com/ImanolAzpiroz/Controlador-MIDI---Raspberry-Pi-Pico/tree/main)
 
 ## 🛠️ Tecnologías y Herramientas
 
