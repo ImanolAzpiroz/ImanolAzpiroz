@@ -1,33 +1,32 @@
+Estudiante de Analista y Programador Universitario, Universidad De La Plata
 
+# 📚 Facultad de Informática - UNLP  
 
+---
 
+## 🟦 Primer Año  
 
-<h1>Facultad Informatica</h1>
+[![CADP](https://img.shields.io/badge/CADP-Repo-blue?style=for-the-badge)](https://github.com/ImanolAzpiroz/Cadp)  
+[![OC](https://img.shields.io/badge/Organización%20de%20Comp-Repo-green?style=for-the-badge)](https://github.com/ImanolAzpiroz/Organizacion-de-Computadoras)  
+[![Taller de Programación](https://img.shields.io/badge/Taller%20de%20Programación-Repo-orange?style=for-the-badge)](https://github.com/ImanolAzpiroz/Taller-De-Programacion)  
+[![Arquitectura](https://img.shields.io/badge/Arquitectura%20de%20Computadoras-Repo-red?style=for-the-badge)](https://github.com/ImanolAzpiroz/Arquitectura-de-Computadoras)  
 
-<h2 align="center">Primer Año</h2>
+---
 
-<a href="https://github.com/ImanolAzpiroz/Cadp"> CADP </a> <br>
-<a href="https://github.com/ImanolAzpiroz/Organizacion-de-Computadoras" > OC </a> <br>
+## 🟨 Segundo Año  
 
-<a href="https://github.com/ImanolAzpiroz/Taller-De-Programacion" alt="readme-typing-svg"> Taller De Programacion </a> <br> 
-<a href="https://github.com/ImanolAzpiroz/Arquitectura-de-Computadoras"> Arquitectura De Computadoras </a> <br>
+[![Algoritmos y Estructuras](https://img.shields.io/badge/AyED-Repo-blueviolet?style=for-the-badge)](https://github.com/ImanolAzpiroz/Algoritmos-y-Estructuras-de-Datos)  
+[![Fundamentos de Org. de Datos](https://img.shields.io/badge/Fundamentos%20de%20Datos-Pendiente-lightgrey?style=for-the-badge)](#)  
+[![OO1](https://img.shields.io/badge/OO1-Repo-orange?style=for-the-badge)](https://github.com/ImanolAzpiroz/Orientacion-a-Objetos-I)  
+[![Bases de Datos](https://img.shields.io/badge/Diseño%20de%20BD-Pendiente-lightgrey?style=for-the-badge)](#)  
+[![IS1](https://img.shields.io/badge/IS1-Repo-brightgreen?style=for-the-badge)](https://github.com/ImanolAzpiroz/Ing-de-Software-1)  
+[![SO](https://img.shields.io/badge/Sistemas%20Operativos-Repo-yellow?style=for-the-badge)](https://github.com/ImanolAzpiroz/Intr-de-Sistemas-Operativos)  
 
+---
 
-<h2 align="center">Segundo</h2>
-<a href="https://github.com/ImanolAzpiroz/Algoritmos-y-Estructuras-de-Datos"> Algoritmos y Estructuras de datos </a> <br>
-<a > Fundamentos de Organizacion de Datos</a> <br>
+## 🟥 Tercer Año  
 
-<a href="https://github.com/ImanolAzpiroz/Orientacion-a-Objetos-I" > Orientacion a Objetos 1 </a> <br>
-<a > Diseño de Bases de Datos </a> <br>
-<a href="https://github.com/ImanolAzpiroz/Ing-de-Software-1" > Ingenieria de Software I</a> <br>
-<a href="https://github.com/ImanolAzpiroz/Intr-de-Sistemas-Operativos"> Introduccion a Sistemas Operativos </a> <br>
-
-<h2 align="center">Tercer Año</h2>
-
-<a href="https://github.com/ImanolAzpiroz/Matematica-3"> Matematica III </a>
-
-
-
+[![Matemática III](https://img.shields.io/badge/Matemática%20III-Repo-9cf?style=for-the-badge)](https://github.com/ImanolAzpiroz/Matematica-3)  
 
 
 
