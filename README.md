@@ -1,10 +1,17 @@
-Estudiante de Analista y Programador Universitario, Universidad De La Plata
+## 👋 Hola, soy Imanol Azpiroz  
 
-# 📚 Facultad de Informática - UNLP  
+Estudiante de **Analista y Programador Universitario** en la **Universidad Nacional de La Plata (UNLP)**.  
+**Tecnico en Sonido y Grabación** en **EMU Educacion Músical**.
+Apasionado por el **Desarrollo de software**, la **Música** y el **Sonido**.
 
 ---
 
-## 🟦 Primer Año  
+---
+## 📚 Facultad de Informática - UNLP  
+
+---
+
+### 🟦 Primer Año  
 
 [![CADP](https://img.shields.io/badge/CADP-Repo-blue?style=for-the-badge)](https://github.com/ImanolAzpiroz/Cadp)  
 [![OC](https://img.shields.io/badge/Organización%20de%20Comp-Repo-green?style=for-the-badge)](https://github.com/ImanolAzpiroz/Organizacion-de-Computadoras)  
@@ -13,7 +20,7 @@ Estudiante de Analista y Programador Universitario, Universidad De La Plata
 
 ---
 
-## 🟨 Segundo Año  
+### 🟨 Segundo Año  
 
 [![Algoritmos y Estructuras](https://img.shields.io/badge/AyED-Repo-blueviolet?style=for-the-badge)](https://github.com/ImanolAzpiroz/Algoritmos-y-Estructuras-de-Datos)  
 [![Fundamentos de Org. de Datos](https://img.shields.io/badge/Fundamentos%20de%20Datos-Pendiente-lightgrey?style=for-the-badge)](#)  
@@ -24,23 +31,28 @@ Estudiante de Analista y Programador Universitario, Universidad De La Plata
 
 ---
 
-## 🟥 Tercer Año  
+### 🟥 Tercer Año  
 
 [![Matemática III](https://img.shields.io/badge/Matemática%20III-Repo-9cf?style=for-the-badge)](https://github.com/ImanolAzpiroz/Matematica-3)  
 
+---
+
+---
+
+## 🚀 Proyectos Personales
+[![Controlador MIDI](https://img.shields.io/badge/Controlador%20MIDI%20con%20Raspberry%20Pi%20Pico-pendiente-red?style=for-the-badge)]()
+
+## 🛠️ Tecnologías y Herramientas
 
 
-<!--
-**ImanolAzpiroz/ImanolAzpiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-86D595?style=for-the-badge&logo=python&logoColor=111211">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-54994C?style=for-the-badge&logo=raspberrypi&logoColor=white">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
