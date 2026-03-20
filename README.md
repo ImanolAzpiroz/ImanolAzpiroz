@@ -23,7 +23,7 @@ Apasionado por el **Desarrollo de software**, la **Música** y el **Sonido**.
 ### 🟨 Segundo Año  
 
 [![Algoritmos y Estructuras](https://img.shields.io/badge/AyED-Repo-blueviolet?style=for-the-badge)](https://github.com/ImanolAzpiroz/Algoritmos-y-Estructuras-de-Datos)  
-[![Fundamentos de Org. de Datos](https://img.shields.io/badge/Fundamentos%20de%20Datos-Pendiente-lightgrey?style=for-the-badge)](#)  
+[![Fundamentos de Org. de Datos]([https://img.shields.io/badge/Fundamentos%20de%20Datos-Pendiente-lightgrey?style=for-the-badge](https://github.com/ImanolAzpiroz/Fundamentos-de-organizaci-n-de-datos))](#)  
 [![OO1](https://img.shields.io/badge/OO1-Repo-orange?style=for-the-badge)](https://github.com/ImanolAzpiroz/Orientacion-a-Objetos-I)  
 [![Bases de Datos](https://img.shields.io/badge/Diseño%20de%20BD-Pendiente-lightgrey?style=for-the-badge)](#)  
 [![IS1](https://img.shields.io/badge/IS1-Repo-brightgreen?style=for-the-badge)](https://github.com/ImanolAzpiroz/Ing-de-Software-1)  
